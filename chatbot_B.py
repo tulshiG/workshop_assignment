@@ -3,7 +3,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 # --- Use a valid model ---
-MODEL_NAME = "gpt2"  # Replace with another HF model if needed
+MODEL_NAME = "gpt2"  
 
 # --- Load model with caching ---
 @st.cache_resource
