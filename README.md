@@ -4,6 +4,7 @@ all the required library mention in requirements
 
 how you can run the file 
 streamlit run main_A.py
+if you found error on running than refersh the page it will work
 
 main is the ui page conncent all the pages  Task A
 chatbot where ai ml intergreation  Task B
