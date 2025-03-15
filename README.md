@@ -1,3 +1,4 @@
+pip install streamlit transformers troch pyautogui 
 all the required library mention in requirements 
 
 how you can run the file 
